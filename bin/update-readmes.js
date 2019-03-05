@@ -5,6 +5,7 @@ const childProcess = require( 'child_process' );
 
 const packages = [
 	'e2e-test-utils',
+	'redux-routine',
 ];
 
 let aggregatedExitCode = 0;
